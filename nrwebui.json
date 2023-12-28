@@ -28,7 +28,7 @@
                     "buttontext": "NR INFO",
                     "title1": "Rates",
                     "title2": "About NR",
-                    "text1": "rates for the server are as fgollows, x3xp, x4loot,x5fishing loot,x75 baby mature, 75egghatch, x5 crop growth, x5 harvest,x5 taming",
+                    "text1": "rates for the server are as follows, x3xp, x4loot, x5fishing loot, x75 baby mature, 75egghatch, x5 crop growth, x5 harvest, x5 taming",
                     "text2": "NR is a long standing community that caters for newer players and casual players that want to escape the vanilla feel and grind. some previous admin mods are Link, Solo,Turok",
                     "imageurl": "https://i.imgur.com/QxC1TEH.png"
                 }
@@ -39,10 +39,10 @@
                     "buttontext": "supporter info",
                     "title1": "Supporter rewards",
                     "title2": "Supporters",
-                    "title3": "Bottom left title",
-                    "text1": " £10.00 RAMSHACKLEx1 longneck bp 100-250 dmg -2 INGAME DINO PAINTS 500 element£15.00 APPRENTICEx1 longneck bp 150-350 dmg -5 INGAME DINO PAINTS 750 element£20.00 JOURNEYMAN -10 INGAME DINO PAINTS -x1 longneck bp 150-350 dmgx1 Argy or ptera saddle bp random around 50% of max ie  max is 352, then you get between 150-180 armour1k element                  ALL DONATIONS TRIGGER SHINY EVENT",
-                    "text2": "PAT,JULIE,LYOKO,VIBRO,STRIDER,TUROK",
-                    "text3": "This text goes into the bottom right box",
+                    "title3": "Current Event",
+                    "text1": " £10.00 RAMSHACKLE x1 longneck bp 100-250 dmg -2 INGAME DINO PAINTS 500 element£15.00 APPRENTICE x1 longneck bp 150-350 dmg -5 INGAME DINO PAINTS 750 element £20.00 JOURNEYMAN -10 INGAME DINO PAINTS -x1 longneck bp 150-350 dmg x1 Argy or ptera saddle bp random around 50% of max ie  max is 352, then you get between 150-180 armour 1k element                  ALL DONATIONS TRIGGER SHINY EVENT",
+                    "text2": "PAT, JULIE, LYOKO, VIBRO, STRIDER, TUROK",
+                    "text3": "Winter Wonderland",
                     "imageurl": "https://i.imgur.com/ndNlNwu.jpeg"
                 }
             },
