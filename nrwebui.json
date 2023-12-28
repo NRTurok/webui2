@@ -4,7 +4,7 @@
             "OpenButton": 0,
             "HideIcon": false,
             "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/QxC1TEH.png",
+            "IconURL": "https://i.imgur.com/tJ4jOyy.png",
             "DisableIconText": false,
             "IconPosition": 0,
             "IconTextColor": 0,
@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome Screen</>",
                     "title1": "Welcome to Noobs Rising!",
-                    "text1": "Welcome to Noobs Rising",
+                    "text1": "Welcome to Noobs Rising \n I'm Turok and hope you enjoy your stay here, \n as you can see various buttons will help ou in your way here",
                     "imageurl": "https://i.imgur.com/QxC1TEH.png"
                 }
             },
@@ -28,8 +28,8 @@
                     "buttontext": "NR INFO",
                     "title1": "Rates",
                     "title2": "About NR",
-                    "text1": "rates for the server are as follows, x3 xp, x4 loot, x5 fishing loot, x75 baby mature, 75egghatch, x5 crop growth, x5 harvest, x5 taming",
-                    "text2": "NR is a long standing community that caters for newer players and casual players that want to escape the vanilla feel and grind.",
+                    "text1": "rates for the server are as follows,\n x3xp,\n x4loot,\n x5fishing loot,\n x75 baby mature,\n 75egghatch,\n x5 crop growth,\n x5 harvest,\n x5 taming",
+                    "text2": "NR is a long standing community that caters for newer players and casual players that want to escape the vanilla feel and grind. some previous admin mods are Link, Solo,Turok",
                     "imageurl": "https://i.imgur.com/QxC1TEH.png"
                 }
             },
@@ -40,7 +40,7 @@
                     "title1": "Supporter rewards",
                     "title2": "Supporters",
                     "title3": "Current Event",
-                    "text1": " £10.00 RAMSHACKLE x1 longneck bp 100-250 dmg -2 INGAME DINO PAINTS 500 element£15.00 APPRENTICE x1 longneck bp 150-350 dmg -5 INGAME DINO PAINTS 750 element £20.00 JOURNEYMAN -10 INGAME DINO PAINTS -x1 longneck bp 150-350 dmg x1 Argy or ptera saddle bp random around 50% of max ie  max is 352, then you get between 150-180 armour 1k element                  ALL DONATIONS TRIGGER SHINY EVENT",
+                    "text1": " £10.00 RAMSHACKLE \n x1 longneck bp 100-250 dmg -2 INGAME DINO PAINTS 500 element \n £15.00 APPRENTICE \n x1 longneck bp 150-350 dmg -5 INGAME DINO PAINTS 750 element \n £20.00 JOURNEYMAN \n -10 INGAME DINO PAINTS -x1 longneck bp 150-350 dmg \n x1 Argy or ptera saddle bp random around 50% of max ie  max is 352, then you get between 150-180 armour 1k element \n \n ALL DONATIONS TRIGGER SHINY EVENT",
                     "text2": "PAT, JULIE, LYOKO, VIBRO, STRIDER, TUROK",
                     "text3": "Winter Wonderland",
                     "imageurl": "https://i.imgur.com/ndNlNwu.jpeg"
@@ -54,11 +54,11 @@
                     "title2": "<TextStyle.Green>YOUTUBE Guides</>",
                     "title3": "<TextStyle.Blue>BIG SERVER DO NOTS</>",
                     "title4": "<TextStyle.Yellow>Encouraged behaviour</>",
-                    "text1": "<TextStyle.Orange>Basilisk (Passive): Carcha,Giga and Quetz (fertilized) Eggs, Candy/Ice/Rock Golem (Knockout): Extraordinary Kibble, StoneMagmasaur (Knockout): Raw MeatCrystal Wyvern (Passive): Shadow Steak,Crystal. Featherlight (Passive): Sweet Veggie Cake,Rare Flower. Shinehorn (Passive): Sweet Veggie Cake,Battle Tartare. Glowtail (Passive): Sweet Veggie Cake,Rare Mushroom. Bulbdog (Passive): Rare Mushroom ,Rare Flower. Mantis (Passive): Exceptional Kibble, Rhino Horn,Spoiled Meat, Tek Dinos (Knockout): Extraordinary Kibble</>",
+                    "text1": "<TextStyle.Orange>Basilisk (Passive): Carcha,Giga and Quetz (fertilized) Eggs,\n Candy/Ice/Rock Golem (Knockout): Extraordinary Kibble,\n StoneMagmasaur (Knockout): Raw MeatCrystal Wyvern (Passive): Shadow Steak,Crystal.\n Featherlight (Passive): Sweet Veggie Cake,Rare Flower.\n Shinehorn (Passive): Sweet Veggie Cake,Battle Tartare.\nGlowtail (Passive): Sweet Veggie Cake,Rare Mushroom.\n Bulbdog (Passive): Rare Mushroom ,Rare Flower.\n Mantis (Passive): Exceptional Kibble,\n Rhino Horn,Spoiled Meat,\n Tek Dinos (Knockout): Extraordinary Kibble</>",
                     "text2": "<TextStyle.Violet>Useful creators with guides, Nooblets, theaxeman, syntax, raasclark, naked zombo</>",
-                    "text3": "<TextStyle.Red>No pillar spamming, No blocking of resource nodes or dino spawns, No toxicity,No griefing of any kind, pester admin because you lost a dino or kit, full list in discord</>",
-                    "text4": "<TextStyle.White>Build a decent sized base perimiter using dino gates,  seek help when needed, trade and run content with others, socialise, join discord </>",
-                    "imageurl": "https://i.imgur.com/24R8Le0.png"
+                    "text3": "<TextStyle.Red>No pillar spamming, No blocking of resource nodes or dino spawns,\n No toxicity,No griefing of any kind,\n pester admin because you lost a dino or kit, full list in discord</>",
+                    "text4": "<TextStyle.White>Build a decent sized base perimiter using dino gates,\n  seek help when needed,\n trade and run content with others, socialise, join discord </>",
+                    "imageurl": "https://i.imgur.com/0zzKzkj.jpeg"
                 }
             }
         ],
