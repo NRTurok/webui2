@@ -16,7 +16,7 @@
             {
                 "tab1": {
                     "layout": 1,
-                    "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
+                    "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome Screen</>",
                     "title1": "Welcome to Noobs Rising!",
                     "text1": "Welcome to Noobs Rising",
                     "imageurl": "https://i.imgur.com/QxC1TEH.png"
@@ -25,7 +25,7 @@
             {
                 "tab2": {
                     "layout": 2,
-                    "buttontext": "2 Box layout",
+                    "buttontext": "NR INFO",
                     "title1": "Rules",
                     "title2": "About NR",
                     "text1": "Rules can be found in discord for full list. but most common rules apply such as no pillar spam etc, instead claim ground using dino gates as these do not prevent spawns",
