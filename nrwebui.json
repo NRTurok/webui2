@@ -50,7 +50,7 @@
                 "tab4": {
                     "layout": 4,
                     "buttontext": "Usefull game or mod info",
-                    "title1": "<TextStyle.Red>dino discovery raming info",
+                    "title1": "dino discovery raming info",
                     "title2": "<TextStyle.Green>YOUTUBE Guides</>",
                     "title3": "<TextStyle.Blue>bottom left title</>",
                     "title4": "<TextStyle.Yellow>bottom right title</>",
