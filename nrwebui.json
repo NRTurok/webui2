@@ -4,7 +4,7 @@
             "OpenButton": 0,
             "HideIcon": false,
             "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/tJ4jOyy.png",
+            "IconURL": "https://i.imgur.com/QxC1TEH.png",
             "DisableIconText": false,
             "IconPosition": 0,
             "IconTextColor": 0,
@@ -28,8 +28,8 @@
                     "buttontext": "NR INFO",
                     "title1": "Rates",
                     "title2": "About NR",
-                    "text1": "rates for the server are as follows, x3xp, x4loot, x5fishing loot, x75 baby mature, 75egghatch, x5 crop growth, x5 harvest, x5 taming",
-                    "text2": "NR is a long standing community that caters for newer players and casual players that want to escape the vanilla feel and grind. some previous admin mods are Link, Solo,Turok",
+                    "text1": "rates for the server are as follows, x3 xp, x4 loot, x5 fishing loot, x75 baby mature, 75egghatch, x5 crop growth, x5 harvest, x5 taming",
+                    "text2": "NR is a long standing community that caters for newer players and casual players that want to escape the vanilla feel and grind.",
                     "imageurl": "https://i.imgur.com/QxC1TEH.png"
                 }
             },
