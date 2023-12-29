@@ -36,7 +36,7 @@
             {
                 "tab3": {
                     "layout": 3,
-                    "buttontext": "Supporter info",
+                    "buttontext": "supporter info",
                     "title1": "Supporter rewards",
                     "title2": "Supporters",
                     "title3": "Current Event",
@@ -58,7 +58,7 @@
                     "text2": "<TextStyle.Violet>Useful creators with guides, Nooblets, theaxeman, syntax, raasclark, naked zombo</>",
                     "text3": "<TextStyle.Red>No pillar spamming, No blocking of resource nodes or dino spawns,\n No toxicity,No griefing of any kind,\n pester admin because you lost a dino or kit, full list in discord</>",
                     "text4": "<TextStyle.White>Build a decent sized base perimiter using dino gates,\n  seek help when needed,\n trade and run content with others, socialise, join discord </>",
-                    "imageurl": "https://i.imgur.com/24R8Le0.png"
+                    "imageurl": "https://i.imgur.com/0zzKzkj.jpeg"
                 }
             }
         ],
@@ -70,15 +70,15 @@
                 }
             },
             {
-                "link2": {
-                    "text": "Link to discord",
-                    "url": "https://discord.gg/DGFyyV5mPf"
-                }
-            },
-            {
                 "link3": {
                     "text": "Link to dododex",
                     "url": "https://www.dododex.com/"
+                }
+            },
+            {
+                "link4": {
+                    "text": "GG Mods Discord",
+                    "url": "https://discord.gg/cFMF5hP8p9"
                 }
             }
         ]
